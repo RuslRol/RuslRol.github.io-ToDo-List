@@ -1,0 +1,40 @@
+.block-list {
+    display: flex;
+    justify-content: space-between;
+    margin: 32px 0px 26px 24px;
+}
+
+.block-list-ul {
+    margin: 0;
+    padding: 0;
+}
+
+.list-active {
+    width: 540px;
+    margin: 25px 0 25px 0;
+}
+
+.input-checkbox {
+    margin: 0px;
+    cursor: pointer;
+    accent-color: #7749F8;
+}
+
+.label-text {
+    font-family: "Inter";
+    font-size: 16px;
+    line-height: 21px;
+    margin: 0px 16px 0px 16px;
+}
+
+.remove {
+    float: right;
+    padding: 0px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+li {
+    list-style-type: none;
+}
